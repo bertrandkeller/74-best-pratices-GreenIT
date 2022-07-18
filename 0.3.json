@@ -72,52 +72,50 @@
     },
     {
       "id": "3",
-      "pilots": [
-        {
+      "pilots": [{
           "name": "Frédéric Bordage",
           "organisation": "GreenIT.fr"
-          },
-          {
+        },
+        {
           "name": "Anne Rabot",
           "organisation": "Resilio"
-          },
-          {
+        },
+        {
           "name": "Astrid Dhénain",
           "organisation": "Resilio"
-          },
-          {
+        },
+        {
           "name": "Hugo Blanadet",
           "organisation": "Resilio"
-          }
+        }
       ],
-      "authors": [
-        {
+      "authors": [{
           "name": "Agnès Comte",
           "organisation": "Banque de France"
         },
         {
-        "name": "Francine Sebire",
-        "organisation": "Bolloré Logistics"
+          "name": "Francine Sebire",
+          "organisation": "Bolloré Logistics"
         },
         {
-        "name": "Ali Bousrih",
-        "organisation": "Groupe BEL"
+          "name": "Ali Bousrih",
+          "organisation": "Groupe BEL"
         },
         {
-        "name": "Marie-Hélène Duc",
-        "organisation": "Groupe BEL"
+          "name": "Marie-Hélène Duc",
+          "organisation": "Groupe BEL"
         },
         {
-        "name": "Olivier Lagarde",
-        "organisation": "Groupe ESG"
+          "name": "Olivier Lagarde",
+          "organisation": "Groupe ESG"
         },
         {
-        "name": "Peter Even",
-        "organisation": "L’Occitane en Provence"
+          "name": "Peter Even",
+          "organisation": "L’Occitane en Provence"
         },
         {
-        "name": "Sandrine Dangreville",
-        "organisation": "Ville de Nanterre"
+          "name": "Sandrine Dangreville",
+          "organisation": "Ville de Nanterre"
         }
       ]
     }
@@ -150,7 +148,7 @@
       "potentiel": {
         "social": 1,
         "environnement": 3,
-        "economy": 1
+        "économie": 1
       }
     },
     {
@@ -183,7 +181,7 @@
       "potentiel": {
         "social": 3,
         "environnement": 3,
-        "economy": 1
+        "économie": 1
       },
       "KPI": "% du parc reconditionné"
     },
@@ -228,7 +226,7 @@
       "potentiel": {
         "social": 1,
         "environnement": 3,
-        "economy": 1
+        "économie": 1
       },
       "KPI": "% des appels d’offres intégrant des clauses environnementales"
     },
@@ -260,24 +258,23 @@
           "p": "D’autre part, la mise en œuvre des clauses d’insertion est compatible avec les marchés de prestations intellectuelles qui peuvent nécessiter des publics hautement qualifiés."
         },
         {
-          "p.title": "Public concerné :",
+          "h4": "Public concerné :",
           "p": "Les demandeurs d’emploi de longue durée, les allocataires du revenu de solidarité active demandeurs d’emploi, les allocataires de minima sociaux, les personnes reconnues travailleurs handicapés, les jeunes sortis sans qualification à l’issue de leur scolarité ou sans expérience professionnelle, les jeunes diplômés au chômage depuis plus d’un an, les séniors qualifiés demandeurs d’emploi de longue durée, les personnes relevant d’un dispositif de l’insertion par l’activité économique."
         },
         {
-          "p.title": "Principe de l’action :",
-          "p": "les clauses d’insertion s’appuient sur un dispositif règlesmentaire adapté, elles sont inscrites dans les conditions d’exécution du marché. (Exemple pour les marchés public avec article 14 conditions d’exécution et article 53 conditions d’attribution). L’attributaire s’engage à réaliser les exigences d’insertion demandées par le client. En cas de non-respect des pénalités sont calculées à hauteur de 60€ par heure non réalisée. Ce dispositif ne peut s’appliquer à un marché qu’à partir d’un volume financier conséquent. Exemple : une demande d’embauche en insertion pour 4 millions d’€ de chiffre d’affaires réalisé."
-        },
-        {
-          "p.title": "Pour aller plus loin :",
-          "p": "http://www.reseau-gesat.com"
+          "h4": "Principe de l’action :",
+          "p": "les clauses d’insertion s’appuient sur un dispositif règlementaire adapté, elles sont inscrites dans les conditions d’exécution du marché. (Exemple pour les marchés public avec article 14 conditions d’exécution et article 53 conditions d’attribution). L’attributaire s’engage à réaliser les exigences d’insertion demandées par le client. En cas de non-respect des pénalités sont calculées à hauteur de 60€ par heure non réalisée. Ce dispositif ne peut s’appliquer à un marché qu’à partir d’un volume financier conséquent. Exemple : une demande d’embauche en insertion pour 4 millions d’€ de chiffre d’affaires réalisé."
         }
+      ],
+      "more": [
+        "http://www.reseau-gesat.com"
       ],
       "priority": 1,
       "difficulty": 3,
       "potentiel": {
         "social": 3,
         "environnement": 1,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "% des marchés intégrant, 3 % au moins de personnes en insertion"
     },
@@ -298,17 +295,17 @@
         },
         {
           "p": "Pour les applications et sites web, il existe un référentiel* reconnu par la profession. Il suffit donc de demander aux prestataires chargés de la conception, de la réalisation et de l’hébergement d’appliquer les bonnes pratiques de ce référentiel. Cette exigence peut être portée en annexe du cahier des charges techniques. Quelques lignes supplémentaire dans un document contractuel suffisent ainsi à initier une démarche d’écoconception logicielle. L’éventuel surcoût – de l’ordre de 4 à 5 % du budget initial – est très largement compensé par les gains tant en nombre de serveurs que de consommation électrique et de bande passante."
-        },
-        {
-          "p": "*Ecoconception web: les 115 bonnes pratiques"
         }
+      ],
+      "footnotes": [
+        "Ecoconception web: les 115 bonnes pratiques"
       ],
       "priority": 3,
       "difficulty": 2,
       "potentiel": {
         "social": 3,
         "environnement": 3,
-        "economy": 3
+        "économie": 3
       },
       "KPI": "% d’appel d’offre intégrant des exigences en matière d’écoconception et d’accessibilité"
     },
@@ -347,7 +344,7 @@
       "potentiel": {
         "social": 3,
         "environnement": 3,
-        "economy": 1
+        "économie": 1
       },
       "KPI": "% collecté par type de déchet (poids papier collectés vs poids papier acheté par exemple) etc., Assurer une collecte régulière par un organisme adapté ou prévu dans le contrat de nettoyage de l’entreprise."
     },
@@ -386,7 +383,7 @@
       "potentiel": {
         "social": 3,
         "environnement": 3,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "% du parc reconditionné par un acteur de l’ESS (nombre d’équipements)"
     },
@@ -430,14 +427,14 @@
       "potentiel": {
         "social": 3,
         "environnement": 3,
-        "economy": 3
+        "économie": 3
       },
       "KPI": "% d’équipements informatiques reconditionnés et recyclés"
     },
     {
       "id": "644",
       "title": "Exiger des reconditionneurs la transparence de leurs exutoires",
-      "thematique": " Démarches transversales",
+      "thematique": "Démarches transversales",
       "subject": "Durée de vie et fin de vie",
       "impacts": {
         "ressources": true,
@@ -457,18 +454,17 @@
         },
         {
           "p": "Les éco-organismes sont des structures à but non lucratif. Ce sont des sociétés de droit privé investies d’une mission d’intérêt KPI général par les pouvoirs publics qui leur délivre un agrément. En fonction des filiéres dédiées, les producteurs soumis à la REP (Responsabilité Elargie des Producteurs) peuvent choisir de transférer leurs obligations de gestion des déchets concernés, en l’occurrence les DEEE professionnels, à l’éco-organisme agréé dans ce domaine. Ce transfert d’obligations s’opére en échange d’une contrepartie financière qui correspond au coût de la gestion des dits déchets."
-        },
-        {
-          "p.title": "Pour aller plus loin :",
-          "p": "Directive DEEE"
         }
+      ],
+      "more": [
+        "Directive DEEE"
       ],
       "priority": 2,
       "difficulty": 1,
       "potentiel": {
         "social": 3,
         "environnement": 3,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "général par les pouvoirs publics qui leur délivre un agrément. En fonction des filiéres dédiées, les producteurs soumis à la REP (Responsabilité Elargie des Producteurs) peuvent choisir de transférer leurs obligations de gestion des déchets concernés, en l’occurrence les DEEE professionnels, à l’éco-organisme agréé dans ce domaine. Ce transfert d’obligations s’opére en échange d’une contrepartie financière qui correspond au coût de la gestion des dits déchets."
     },
@@ -503,7 +499,7 @@
       "potentiel": {
         "social": 1,
         "environnement": 2,
-        "economy": 1
+        "économie": 1
       }
     },
     {
@@ -535,7 +531,7 @@
       "potentiel": {
         "social": 1,
         "environnement": 3,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "Durée moyenne de vie d’un équipement dans l’organisation ou prix de revient moyen d’un poste / an"
     },
@@ -564,8 +560,8 @@
           "p": "Elle accompagne les directions métier pour les aider à tirer le meilleur partie du numérique dans le cadre de la conception responsable des produits et services numériques de l’entreprise."
         },
         {
-          "p.title": "Ressource :",
-          "p": "Fiche métier « Responsable Green IT » de la nomenclature des métiers du SI du CIGREF"
+          "h4": "Ressource :",
+          "p": "[Fiche métier « Responsable Green IT » de la nomenclature des métiers du SI du CIGREF](https://www.cigref.fr/wp/wp-content/uploads/2021/12/Cigref-Nomenclature-RH-des-profils-metiers-du-SI-version-intermediaire-2021.pdf)"
         }
       ],
       "priority": 3,
@@ -573,7 +569,7 @@
       "potentiel": {
         "social": 3,
         "environnement": 3,
-        "economy": 3
+        "économie": 3
       },
       "KPI": "Charge dédiée au responsable Green IT (% ETP)"
     },
@@ -604,7 +600,7 @@
       "potentiel": {
         "social": 3,
         "environnement": 3,
-        "economy": 3
+        "économie": 3
       },
       "KPI": "% du budget DSI"
     },
@@ -635,7 +631,7 @@
       "potentiel": {
         "social": 3,
         "environnement": 3,
-        "economy": 3
+        "économie": 3
       },
       "KPI": "Oui = 100 %, Non = 0 %"
     },
@@ -675,7 +671,7 @@
       "potentiel": {
         "social": 3,
         "environnement": 3,
-        "economy": 3
+        "économie": 3
       },
       "KPI": "Nombre KPI green IT / Nombre de bonnes pratiques"
     },
@@ -709,7 +705,7 @@
       "potentiel": {
         "social": 3,
         "environnement": 3,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "Oui = 100 %, Non = 0 % ou nombre d’indicateurs en commun"
     },
@@ -740,7 +736,7 @@
       "potentiel": {
         "social": 2,
         "environnement": 3,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "Oui = 100 %, Non = 0 %"
     },
@@ -772,7 +768,7 @@
       "potentiel": {
         "social": 3,
         "environnement": 3,
-        "economy": 2
+        "économie": 2
       }
     },
     {
@@ -805,7 +801,7 @@
       "potentiel": {
         "social": 2,
         "environnement": 3,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "% de personnes formées dans les équipes produits",
       "labels": "Architectes SI"
@@ -841,7 +837,7 @@
       "potentiel": {
         "social": 1,
         "environnement": 3,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "% du parc de poste travail upgradés plutôt que renouvelés et durée de l’allongement"
     },
@@ -872,7 +868,7 @@
       "potentiel": {
         "social": 2,
         "environnement": 2,
-        "economy": 1
+        "économie": 1
       },
       "KPI": "% du parc de postes de travail éteints ou mis en veille le soir et le week-end"
     },
@@ -904,11 +900,11 @@
       "potentiel": {
         "social": 1,
         "environnement": 3,
-        "economy": 2
+        "économie": 2
       }
     },
     {
-      "id": " 51",
+      "id": "511",
       "title": " Allonger la durée de dotation des équipements",
       "thematique": "Utilisateur",
       "subject": "Poste de travail",
@@ -941,13 +937,13 @@
       "potentiel": {
         "social": 1,
         "environnement": 3,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "Durée de vie moyenne par type d’équipement"
     },
     {
-      "id": " 60",
-      "title": " Privilégier des ordinateurs éco - labellisés TCO, ou à défaut EPEAT GOLD",
+      "id": "602",
+      "title": " Privilégier des ordinateurs écolabellisés TCO, ou à défaut EPEAT GOLD",
       "thematique": "Utilisateur",
       "subject": "Poste de travail",
       "impacts": {
@@ -968,21 +964,18 @@
         },
         {
           "p": "Un autre éco-label possible est EPEAT Gold, mais il ne prend en compte que les critères environnementaux."
-        },
-        {
-          "p": "Pour aller plus loin :",
-          "ul": [
-            "www.epeat.net",
-            "www.tcodevelopment.com"
-          ]
         }
+      ],
+      "more": [
+        "www.epeat.net",
+        "www.tcodevelopment.com"
       ],
       "priority": 3,
       "difficulty": 1,
       "potentiel": {
         "social": 1,
         "environnement": 3,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "% de postes de travail écolabélisés TCO",
       "labels": "EPEAT, TCO"
@@ -1004,17 +997,18 @@
         },
         {
           "p": "Le label Ordi 3.0 (<http://www.ordi3-0.fr/>) permet d’identifier facilement les entreprises qui respectent un cahier des charges strict en matiére de remise en état. Une liste des entreprises est disponible sur le web."
-        },
-        {
-          "p": "Consulter les fiches # 650 et # 608."
         }
+      ],
+      "consult": [
+        "650",
+        "608"
       ],
       "priority": 2,
       "difficulty": 1,
       "potentiel": {
         "social": 3,
         "environnement": 3,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "% du parc de postes de travail reconditionnés"
     },
@@ -1048,7 +1042,7 @@
       "potentiel": {
         "social": 1,
         "environnement": 3,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "% du parc de postes de travail (desktop / laptop) renouvelés seuls"
     },
@@ -1080,7 +1074,7 @@
       "potentiel": {
         "social": 1,
         "environnement": 3,
-        "economy": 3
+        "économie": 3
       }
     },
     {
@@ -1113,7 +1107,7 @@
       "potentiel": {
         "social": 2,
         "environnement": 2,
-        "economy": 1
+        "économie": 1
       },
       "KPI": "Nombre moyen de téléphones fixes ou portables par utilisateur"
     },
@@ -1163,13 +1157,13 @@
       "potentiel": {
         "social": 1,
         "environnement": 3,
-        "economy": 3
+        "économie": 3
       },
       "KPI": "% des PC, smartphones, tablettes en mode BYOD"
     },
     {
       "id": "610",
-      "title": "Fixer un niveau de DAS (Débit d’Ab- sorption Spécifique) maximum de 0,6 W/kg",
+      "title": "Fixer un niveau de DAS (Débit d’Absorption Spécifique) maximum de 0,6 W/kg",
       "thematique": "Utilisateur",
       "subject": "Téléphonie",
       "impacts": {
@@ -1201,7 +1195,7 @@
       "potentiel": {
         "social": 3,
         "environnement": 1,
-        "economy": 1
+        "économie": 1
       }
     },
     {
@@ -1234,7 +1228,7 @@
       "potentiel": {
         "social": 3,
         "environnement": 3,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "% d’équipement repris et reconditionnés"
     },
@@ -1258,22 +1252,19 @@
         },
         {
           "p": "Le mode recto-verso peut être difficile à appréhender par certains utilisateurs, il n’est alors pas inutile de les former à l’utilisation de cette fonctionnalité. On profitera de cette formation pour vanter l’intérêt : 2 fois moins de poids à transporter, etc.."
-        },
-        {
-          "p": "Pour aller plus loin, penser aussi à :",
-          "ul": [
-            "choisir une police de caractère par défaut sobre en consommation d’encre",
-            "éco-concevoir vos modèles types de documents",
-            "mettre en page les documents avant de les mettre à disposition"
-          ]
         }
+      ],
+      "more": [
+        "choisir une police de caractère par défaut sobre en consommation d’encre",
+        "éco-concevoir vos modèles types de documents",
+        "mettre en page les documents avant de les mettre à disposition"
       ],
       "priority": 3,
       "difficulty": 1,
       "potentiel": {
         "social": 1,
         "environnement": 3,
-        "economy": 3
+        "économie": 3
       },
       "KPI": "% du parc d’imprimantes configurées par défaut en mode éco"
     },
@@ -1304,7 +1295,7 @@
       "potentiel": {
         "social": 3,
         "environnement": 2,
-        "economy": 3
+        "économie": 3
       },
       "KPI": "Pages / jour / utilisateur et / ou % d’impressions couleurs"
     },
@@ -1328,21 +1319,18 @@
         },
         {
           "p": "Le prix du papier recyclé peut être plus cher que le papier fabriqué à partir de fibres vierges. Pour le faire adopter, il peut être nécessaire de l’inclure dans une démarche plus large de maîtrise des coûts des impressions économiquement viables."
-        },
-        {
-          "p": "Pour aller plus loin:",
-          "ul": [
-            "FSC : https://fr.fsc.org",
-            "Blue Angel : https://www.blauer-engel.de"
-          ]
         }
+      ],
+      "more": [
+        "FSC : https://fr.fsc.org",
+        "Blue Angel (RAL UZ 72) : https://www.blauer-engel.de/en/products/office/printing-paper-2014 et https://www.blauer-engel.de/en/products/office/printing-papers-2011"
       ],
       "priority": 3,
       "difficulty": 1,
       "potentiel": {
         "social": 1,
         "environnement": 3,
-        "economy": 1
+        "économie": 1
       },
       "KPI": "% de papier recyclé FSC ou Blue Angel (par rapport à la quantité totalede papier utilisé)",
       "labels": "Blue Angel, FSC"
@@ -1375,7 +1363,7 @@
       "potentiel": {
         "social": 3,
         "environnement": 2,
-        "economy": 2
+        "économie": 2
       }
     },
     {
@@ -1403,7 +1391,7 @@
       "potentiel": {
         "social": 1,
         "environnement": 3,
-        "economy": 3
+        "économie": 3
       }
     },
     {
@@ -1429,24 +1417,22 @@
         },
         {
           "p": "EPEAT offre une meilleur converture que Blue Angel en terme de nombres d’équipements mais Blue Angel reste l’écolabel le plus exigeant."
-        },
-        {
-          "h3.important": "En complément de l’usage d’un écolabel, il peut être judicieux d’ajouter quelques exigences techniques lors de l’appel d’offre, notamment que les toners couleurs soient dissociés pour ne remplacer que le toner correspondant à la couleur épuisée."
-        },
-        {
-          "p": "Pour aller plus loin :",
-          "ul": [
-            "www.blauerengel.de/en/",
-            "www.epeat.net/"
-          ]
         }
+      ],
+      "toknow": {
+        "p": "En complément de l’usage d’un écolabel, il peut être judicieux d’ajouter quelques exigences techniques lors de l’appel d’offre, notamment que les toners couleurs soient dissociés pour ne remplacer que le toner correspondant à la couleur épuisée."
+      },
+      "more": [
+
+        "www.blauerengel.de/en/",
+        "www.epeat.net/"
       ],
       "priority": 2,
       "difficulty": 1,
       "potentiel": {
         "social": 3,
         "environnement": 3,
-        "economy": 1
+        "économie": 1
       },
       "KPI": "% d’équipements d’impression écolabelisés Blue Angel (et/ou EPEAT)",
       "labels": "Blue Angel, EPEAT"
@@ -1468,21 +1454,18 @@
         },
         {
           "p": "Il faut privilégier les écolabels Blue Angel puis FSC et ne surtout pas utiliser PEFC qui n’est pas un écolabel. À qualité égale, le papier certifié Blue Angel ou FSC n’est quasiment pas plus cher qu’un papier ordinaire. Bien souvent, il suffit de s’organiser pour commander en volume pour gommer totalement la différence de prix d’achat."
-        },
-        {
-          "p": "Pour aller plus loin :",
-          "ul": [
-            "FSC : https://fr.fsc.org",
-            "Blue Angel (RAL UZ 72) : https://www.blauer-engel.de/en/products/office/printing-paper-2014 et https://www.blauer-engel.de/en/products/office/printing-papers-2011"
-          ]
         }
+      ],
+      "more": [
+        "FSC : https://fr.fsc.org",
+        "Blue Angel (RAL UZ 72) : https://www.blauer-engel.de/en/products/office/printing-paper-2014 et https://www.blauer-engel.de/en/products/office/printing-papers-2011"
       ],
       "priority": 2,
       "difficulty": 1,
       "potentiel": {
         "social": 1,
         "environnement": 3,
-        "economy": 1
+        "économie": 1
       },
       "KPI": "% du poids total acheté certifié Blue Angel et / ou FSC",
       "labels": "Blue Angel, FSC"
@@ -1514,7 +1497,7 @@
       "potentiel": {
         "social": 2,
         "environnement": 3,
-        "economy": 3
+        "économie": 3
       },
       "KPI": "Kg collectés par an et par utilisateur"
     },
@@ -1535,18 +1518,18 @@
         },
         {
           "p": "Bien que la fabrication de ces équipements ne représente pas le principal impact des impressions (c’est la fabrication du papier), cette approche ne doit pas être négligée quand il est possible de la mettre en œuvre."
-        },
-        {
-          "h3.important": "De plus en plus de fournisseurs proposent en location des équipements perçus comme neufs mais qui sont pourtant de seconde main. Pour un utilisateur lambda, il est pratiquement impossible de faire la différence entre un équipement remis en état et un équipement neuf."
         }
       ],
+      "toknow": {
+        "p": "De plus en plus de fournisseurs proposent en location des équipements perçus comme neufs mais qui sont pourtant de seconde main. Pour un utilisateur lambda, il est pratiquement impossible de faire la différence entre un équipement remis en état et un équipement neuf."
+      },
       "KPI": "% du parc d’imprimantes reconditionnées(s’informer auprès du fournisseur dans le cas de location)",
       "priority": 3,
       "difficulty": 2,
       "potentiel": {
         "social": 1,
         "environnement": 2,
-        "economy": 3
+        "économie": 3
       }
     },
     {
@@ -1582,7 +1565,7 @@
       "potentiel": {
         "social": 2,
         "environnement": 2,
-        "economy": 2
+        "économie": 2
       }
     },
     {
@@ -1610,7 +1593,7 @@
       "potentiel": {
         "social": 2,
         "environnement": 2,
-        "economy": 2
+        "économie": 2
       }
     },
     {
@@ -1646,7 +1629,7 @@
       "potentiel": {
         "social": 2,
         "environnement": 3,
-        "economy": 1
+        "économie": 1
       },
       "KPI": "Volume de stockage en entrée (To)"
     },
@@ -1695,7 +1678,7 @@
       "potentiel": {
         "social": 3,
         "environnement": 1,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "Nombre de courriels envoyés / utilisateur / jour"
     },
@@ -1726,7 +1709,7 @@
       "potentiel": {
         "social": 2,
         "environnement": 3,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "Poids des fichiers graphiques"
     },
@@ -1758,17 +1741,17 @@
         },
         {
           "p": "Des outils comme CCleaner et Agomo de Piriform permettent d’entretenir un parc complet de postes de travail depuis une console centralisée."
-        },
-        {
-          "h3.important": "Un ordinateur dont la couche logicielle est mal entretenue peut nécessiter jusqu’à 25 % de puissance supplémentaire (mémoire vive, puissance processeur, rapidité du disque dur, etc.) pour délivrer la même performance qu’un ordinateur moins puissant mais bien entretenu."
         }
       ],
+      "toknow": {
+        "p": "De plus en plus de fournisseurs proposent en location des équipements perçus comme neufs mais qui sont pourtant de seconde main. Pour un utilisateur lambda, il est pratiquement impossible de faire la différence entre un équipement remis en état et un équipement neuf."
+      },
       "priority": 3,
       "difficulty": 2,
       "potentiel": {
         "social": 2,
         "environnement": 3,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "% du parc de postes de travail entretenus au moins une fois par mois"
     },
@@ -1792,18 +1775,18 @@
         },
         {
           "p": "Des outils comme AppClarity de 1E permettent de lister les logiciels inutilisés et de les désinstaller facilement."
-        },
-        {
-          "h3.important": "Cette bonne pratique porte aussi sur les systèmes d’exploitation des serveurs. Plusieurs études et retours d’expérience montrent qu’une installation sur mesure du système d’exploitation en fonction des besoins précis de l’application peut nécessiter jusqu’à 15 % de puissance en moins. À l’échelle de plusieurs milliers de serveurs physiques, ce sont des centaines de machines que l’on peut éteindre."
         }
       ],
+      "toknow": {
+        "p": "Cette bonne pratique porte aussi sur les systèmes d’exploitation des serveurs. Plusieurs études et retours d’expérience montrent qu’une installation sur mesure du système d’exploitation en fonction des besoins précis de l’application peut nécessiter jusqu’à 15 % de puissance en moins. À l’échelle de plusieurs milliers de serveurs physiques, ce sont des centaines de machines que l’on peut éteindre."
+      },
       "KPI": "Nombre de licences utilisées / nombre de licences totale",
       "priority": 2,
       "difficulty": 1,
       "potentiel": {
         "social": 2,
         "environnement": 2,
-        "economy": 3
+        "économie": 3
       }
     },
     {
@@ -1836,7 +1819,7 @@
       "potentiel": {
         "social": 2,
         "environnement": 3,
-        "economy": 3
+        "économie": 3
       },
       "KPI": "Nombre moyen de versions entre celles utilisées"
     },
@@ -1879,17 +1862,17 @@
             "être intégrée dans le cahier des charges du site web",
             "être mise en œuvre au sein des projets pilotés, conçus, réalisés et hébergés en interne comme en externe (fournir aux prestataires le référentiel des bonnes pratiques et les accompagner dans la démarche)"
           ]
-        },
-        {
-          "p": "*Les principales recommandations disponibles à ce sujet se concentrent principalement sur le web (WCAG/RGAA). Elles sont donc moins appropriées pour les autres services."
         }
+      ],
+      "footnotes": [
+        "Les principales recommandations disponibles à ce sujet se concentrent principalement sur le web (WCAG/RGAA). Elles sont donc moins appropriées pour les autres services."
       ],
       "priority": 2,
       "difficulty": 3,
       "potentiel": {
         "social": 3,
         "environnement": 1,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "% des sites et applications web accessible (définir un niveau minimim parmi Bronze, Argent, Or)"
     },
@@ -1941,21 +1924,18 @@
         },
         {
           "p": "Pour garantir la mise en œuvre de cette démarche, il faut sensibiliser toutes les parties prenantes (maîtrise d’ouvrage, architecte, chef de projet, développeur, etc.) et former des référents techniques, chargés à leur tour de relayer cette compétence auprès des équipes. En outre, l’analyse régulière des services numériques permet d’ancrer les bonnes pratiques de façon durable."
-        },
-        {
-          "p": "Pour aller plus loin :",
-          "ul": [
-            "« Écoconception web : 115 bonnes pratiques », Eyrolles",
-            "Collectif Conception Numérique Responsable : https://collectif.greenit.fr"
-          ]
         }
+      ],
+      "more": [
+        "« Écoconception web : 115 bonnes pratiques », Eyrolles",
+        "Collectif Conception Numérique Responsable : https://collectif.greenit.fr"
       ],
       "priority": 2,
       "difficulty": 2,
       "potentiel": {
         "social": 1,
         "environnement": 3,
-        "economy": 3
+        "économie": 3
       },
       "KPI": "% d’applications écoconçues et accessibles"
     },
@@ -1982,25 +1962,22 @@
         },
         {
           "p": "La mise en œuvre de cette bonne pratique nécessite d’investir sur l’étape de conception fonctionnelle et de s’assurer qu’un dialogue efficace a lieu entre les parties prenantes chargées de la conception fonctionnelle et de l’architecture technique. Ce projet doit donc être abordé avant tout comme un projet de conduite du changement qui vise à renouer un véritable dialogue entre les parties prenantes du projet."
-        },
-        {
-          "h3.important": "À savoir :",
-          "p": "Selon une étude de Cast Software, 70% des fonctionnalités demandées par les utilisateurs ne sont jamais ou rarement utilisées, ce qui représente 70 % de code mort qu’il faudra pourtant revoir (voir #628) et maintenir."
-        },
-        {
-          "p": "Pour aller plus loin :",
-          "ul": [
-            "FSC : https://fr.fsc.org",
-            "Blue Angel (RAL UZ 72) : https://www.blauer-engel.de/en/products/office/printing-paper-2014 et https://www.blauer-engel.de/en/products/office/printing-papers-2011"
-          ]
         }
+      ],
+      "toknow": {
+        "h3": "À savoir :",
+        "p": "Selon une étude de Cast Software, 70% des fonctionnalités demandées par les utilisateurs ne sont jamais ou rarement utilisées, ce qui représente 70 % de code mort qu’il faudra pourtant revoir (voir #628) et maintenir."
+      },
+      "more": [
+        "FSC : https://fr.fsc.org",
+        "Blue Angel (RAL UZ 72) : https://www.blauer-engel.de/en/products/office/printing-paper-2014 et https://www.blauer-engel.de/en/products/office/printing-papers-2011"
       ],
       "priority": 2,
       "difficulty": 3,
       "potentiel": {
         "social": 1,
         "environnement": 2,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "% d’applications reposant sur une architecture modulaire"
     },
@@ -2027,18 +2004,18 @@
         },
         {
           "p": "Dans une démarche de conception responsable de service numérique, la revue de code est surtout intéressante pour réduire le coût du service, mais aussi, dans une moindre mesure, l’empreinte environnementale associée en optimisant l’efficience du logiciel."
-        },
-        {
-          "h3.important.title": "Zoom sur…",
-          "h3.important": "La dette technique (l’ensemble des défauts logiciels à corriger) pourrait représenter jusqu’à 70 % du coût complet d’un logiciel. Selon l’étude The Crash Report 2011 – 2012 de Cast Software, il serait en moyenne de 3,6 dollars par ligne de code."
         }
       ],
+      "toknow": {
+        "h3": "Zoom sur…",
+        "p": "La dette technique (l’ensemble des défauts logiciels à corriger) pourrait représenter jusqu’à 70 % du coût complet d’un logiciel. Selon l’étude The Crash Report 2011 – 2012 de Cast Software, il serait en moyenne de 3,6 dollars par ligne de code."
+      },
       "priority": 2,
       "difficulty": 1,
       "potentiel": {
         "social": 1,
         "environnement": 2,
-        "economy": 3
+        "économie": 3
       }
     },
     {
@@ -2071,7 +2048,7 @@
       "potentiel": {
         "social": 1,
         "environnement": 2,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "% de serveurs paramétrés"
     },
@@ -2102,20 +2079,7 @@
       "potentiel": {
         "social": 1,
         "environnement": 2,
-        "economy": 2
-      },
-      "KPI": "% d’équipement acheté avec une efficacité énergétique minimum (à préciser)"
-    },
-    {
-      "title": "manquant",
-      "thematique": "Les fournisseurs publient systématiquement des indicateurs d’efficacité énergétique.Il faut s’en servir.Par exemple,on peut exiger: une catégorie A pour un climatiseur mural,un ratio EER > 3,2 pour une armoire de climatisation,un rendement",
-      "subject": "94 % pour un onduleur,etc.  ",
-      "priority": 3,
-      "difficulty": 2,
-      "potentiel": {
-        "social": 3,
-        "environnement": 3,
-        "economy": 1
+        "économie": 2
       },
       "KPI": "% d’équipement acheté avec une efficacité énergétique minimum (à préciser)"
     },
@@ -2152,7 +2116,7 @@
       "potentiel": {
         "social": 3,
         "environnement": 3,
-        "economy": 1
+        "économie": 1
       }
     },
     {
@@ -2178,18 +2142,18 @@
         },
         {
           "p": "Il peut-être aussi opportun de tester en grandeur réelle de nouvelles gammes de serveurs très innovatrices telles que ceux basés sur des architectures ARM, bien plus efficientes d’un point de vue énergétique, et qui peuvent répondre à des cas d’usages spécifiques. ou bien encore des architectures de type « physicalisation »."
-        },
-        {
-          "h3.important": "Zoom sur la physicalisation",
-          "p": "À contre courant de la virtualisation, cette démarche vise à concentrer un très grand nombre de micro-serveurs physiques dans une même baie. HP propose par exemple des configurations « Moonshot » qui intègrent jusqu’à 1 800 serveurs par rack, avec une promesse de gain de 65 % sur l’efficacité énergétique et de 90 % sur l’espace occupé."
         }
       ],
+      "toknow": {
+        "h3": "Zoom sur la physicalisation",
+        "p": "À contre courant de la virtualisation, cette démarche vise à concentrer un très grand nombre de micro-serveurs physiques dans une même baie. HP propose par exemple des configurations « Moonshot » qui intègrent jusqu’à 1 800 serveurs par rack, avec une promesse de gain de 65 % sur l’efficacité énergétique et de 90 % sur l’espace occupé."
+      },
       "priority": 3,
       "difficulty": 3,
       "potentiel": {
         "social": 1,
         "environnement": 2,
-        "economy": 3
+        "économie": 3
       },
       "KPI": "% du parc avec une configuration spécifique à l’usage"
     },
@@ -2224,7 +2188,7 @@
       "potentiel": {
         "social": 1,
         "environnement": 3,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "Énergie réutilisée / énergie totale consommée par la salle (sur une année pleine)"
     },
@@ -2272,7 +2236,7 @@
       "potentiel": {
         "social": 2,
         "environnement": 2,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "PUE"
     },
@@ -2302,18 +2266,18 @@
           "ul": [
             "https://www.apl-datacenter.com/wp-content/uploads/2017/07/livre-blanc-indicateurs-performance-énergétique-environnementale-des-data-centers.pdf"
           ]
-        },
-        {
-          "h3.important": "À savoir",
-          "p": "En ratifiant ce code, l’opérateur certifie qu’il applique une liste minimum de bonnes pratiques, où qu’il a un planning à court terme de mise en œuvre pour certaines d’entre elles. Il s’engage aussi à fournir un certain nombre d’indicateurs proposés dans le guide."
         }
       ],
+      "toknow": {
+        "h3": "À savoir",
+        "p": "En ratifiant ce code, l’opérateur certifie qu’il applique une liste minimum de bonnes pratiques, où qu’il a un planning à court terme de mise en œuvre pour certaines d’entre elles. Il s’engage aussi à fournir un certain nombre d’indicateurs proposés dans le guide."
+      },
       "priority": 2,
       "difficulty": 2,
       "potentiel": {
         "social": 2,
         "environnement": 2,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "% de DC ou m2 de DC ou kW IT gérés par des fournisseurs ayant signé le CoC"
     },
@@ -2348,7 +2312,7 @@
       "potentiel": {
         "social": 1,
         "environnement": 2,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "% de rack confinés"
     },
@@ -2386,7 +2350,7 @@
       "potentiel": {
         "social": 1,
         "environnement": 3,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "% de racks confiné",
       "labels": "ASHRAE Class A3 à A4"
@@ -2421,7 +2385,7 @@
       "potentiel": {
         "social": 1,
         "environnement": 3,
-        "economy": 3
+        "économie": 3
       },
       "KPI": "% de serveurs virtualisés"
     },
@@ -2461,14 +2425,14 @@
       "potentiel": {
         "social": 1,
         "environnement": 2,
-        "economy": 3
+        "économie": 3
       },
       "KPI": "Go / utilisateur / an"
     },
     {
       "id": "636",
-      "title": "Mettre en place une procédure stricte de provisionning et déprovisionning des matériels",
-      "thematique": "IT Entreprise",
+      "title": "Mettre en place une procédure stricte de provisionning et déprovisionning des matériels IT",
+      "thematique": "Entreprise",
       "subject": "Centres informatiques",
       "impacts": {
         "ressources": false,
@@ -2482,18 +2446,18 @@
         },
         {
           "p": "Une procédure stricte de deprovisionning doit être mise en place avec des acteurs identifiés, des plannings à respecter et des relances en cas de retard."
-        },
-        {
-          "h3.important": "Le chiffre",
-          "p": "Plusieurs retours d’expérience montrent qu’environ 15 % des machines virtuelles déployées ne servent à rien. Elles monopolisent pourtant une partie des serveurs physiques sur lesquels elles s’exécutent."
         }
       ],
+      "toknow": {
+        "h3": "Le chiffre",
+        "p": "Plusieurs retours d’expérience montrent qu’environ 15 % des machines virtuelles déployées ne servent à rien. Elles monopolisent pourtant une partie des serveurs physiques sur lesquels elles s’exécutent."
+      },
       "priority": 3,
       "difficulty": 2,
       "potentiel": {
         "social": 2,
         "environnement": 2,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "Oui = 100 %, Non = 0 %"
     },
@@ -2516,7 +2480,7 @@
           "p": "Le free cooling a apporté un progrès considérable. Il consiste à utiliser l’air ambiant extérieur pour refroidir sa salle, chaque fois que la température extérieure passe en dessous de 20°C. Suivant les conditions climatiques locales, cette technique permet de réduire de 50 à 70% l’énergie nécessaire à la climatisation."
         },
         {
-          "p": "Tous les datacenters modernes utilisent cette technologie. Pour un datacenter plus ancien, il faudra étudier systématiquement l’hypothèse free cooling à l’occasion du remplacement des équipements de climatisation arrivés en fin de vie. Si son installation est trop complexe, il existe une alternative, le free- chilling qui peut être plus simple à mettre en œuvre. Elle utilise un circuit d’eau qui va circuler dans une tour aéro-réfrigérante extérieure lorsque la température y est suffisamment basse. L’eau froide ainsi obtenue peut, par exemple, servir à rafraîchir l’air de la salle via un échangeur."
+          "p": "Tous les datacenters modernes utilisent cette technologie. Pour un datacenter plus ancien, il faudra étudier systématiquement l’hypothèse free cooling à l’occasion du remplacement des équipements de climatisation arrivés en fin de vie. Si son installation est trop complexe, il existe une alternative, le free-chilling qui peut être plus simple à mettre en œuvre. Elle utilise un circuit d’eau qui va circuler dans une tour aéro-réfrigérante extérieure lorsque la température y est suffisamment basse. L’eau froide ainsi obtenue peut, par exemple, servir à rafraîchir l’air de la salle via un échangeur."
         }
       ],
       "priority": 2,
@@ -2524,7 +2488,7 @@
       "potentiel": {
         "social": 1,
         "environnement": 3,
-        "economy": 3
+        "économie": 3
       },
       "KPI": "% des centres de données de l’entreprise utilisant un refroidissement naturel"
     },
@@ -2574,7 +2538,7 @@
       "potentiel": {
         "social": 1,
         "environnement": 2,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "% du DC organisé en allées chaudes allées froides"
     },
@@ -2598,24 +2562,21 @@
         },
         {
           "p": "L’ASHRAE propose donc un cahier des charges que les fabricants d’équipements informatiques, réseau et télécoms peuvent suivre dans ce but. Classés en quatre catégories - A1 à A4 - les équipements sont alors plus ou moins tolérants en termes de température et niveau maximum d’humidité et de vitesse de variation de ces deux paramètres. Les équipements des classes A3 et A4 autorisent à pratiquer le free cooling en France plus de 80 % du temps."
-        },
-        {
-          "h3.important": "Point d’attention",
-          "p": "À contre courant de la virtualisation, cette démarche vise à concentrer un très grand nombre de micro-serveurs physiques dans une même baie. HP propose par exemple des configurations « Moonshot » qui intègrent jusqu’à 1 800 serveurs par rack, avec une promesse de gain de 65 % sur l’efficacité énergétique et de 90 % sur l’espace occupé."
-        },
-        {
-          "p": "Pour en savoir plus :",
-          "ul": [
-            "http://tc99.ashraetcs.org/documents/ASHRAE%20Networking%20Thermal%20Guidelines.pdf"
-          ]
         }
       ],
+      "more": [
+        "[ASHRAE - Data Center Power Equipment Thermal Guidelines and Best Practices](http://tc99.ashraetcs.org/documents/ASHRAE%20Networking%20Thermal%20Guidelines.pdf)"
+      ],
+      "toknow": {
+        "h3": "Point d’attention",
+        "p": "À contre courant de la virtualisation, cette démarche vise à concentrer un très grand nombre de micro-serveurs physiques dans une même baie. HP propose par exemple des configurations « Moonshot » qui intègrent jusqu’à 1 800 serveurs par rack, avec une promesse de gain de 65 % sur l’efficacité énergétique et de 90 % sur l’espace occupé."
+      },
       "priority": 2,
       "difficulty": 3,
       "potentiel": {
         "social": 1,
         "environnement": 3,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "Température de consigne"
     },
@@ -2657,7 +2618,7 @@
       "potentiel": {
         "social": 1,
         "environnement": 2,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "% de m2 DC modulaires"
     },
@@ -2689,7 +2650,7 @@
       "potentiel": {
         "social": 1,
         "environnement": 3,
-        "economy": 2
+        "économie": 2
       }
     },
     {
@@ -2712,7 +2673,7 @@
       "potentiel": {
         "social": 1,
         "environnement": 3,
-        "economy": 3
+        "économie": 3
       },
       "KPI": "% port réseau utilisé, % réseau utilisé"
     },
@@ -2736,9 +2697,9 @@
       "potentiel": {
         "social": 1,
         "environnement": 3,
-        "economy": 2
+        "économie": 2
       },
-      "KPI": "% d’équipements réseaux avec le protocole Energy- Efficient Ethernet"
+      "KPI": "% d’équipements réseaux avec le protocole Energy-Efficient Ethernet"
     },
     {
       "id": "902",
@@ -2775,12 +2736,12 @@
       "potentiel": {
         "social": 1,
         "environnement": 3,
-        "economy": 2
+        "économie": 2
       }
     },
     {
       "id": "903",
-      "title": "Favoriser les réseaux de télécommuni- cations les moins énergivores",
+      "title": "Favoriser les réseaux de télécommunications les moins énergivores",
       "thematique": "Entreprise",
       "subject": "Réseau",
       "impacts": {
@@ -2798,20 +2759,18 @@
         },
         {
           "p": "Rappelons enfin que le débit est toujours meilleur avec une connexion filaire."
-        },
-        {
-          "p": "* Article R111-1 du code de la construction"
-        },
-        {
-          "p": "** Recommandation KBOB / Câblage universel de communication (CUC) /Édition 3 / Mars 2012"
         }
+      ],
+      "footnotes": [
+        "Article R111-1 du code de la construction",
+        "Recommandation KBOB / Câblage universel de communication (CUC) /Édition 3 / Mars 2012"
       ],
       "priority": 2,
       "difficulty": 2,
       "potentiel": {
         "social": 1,
         "environnement": 2,
-        "economy": 2
+        "économie": 2
       },
       "KPI": "Consommation électrique par unité de donnée transférée"
     }
